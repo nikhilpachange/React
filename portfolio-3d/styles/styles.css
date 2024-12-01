@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  .three-canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+  
+  .content {
+    position: relative;
+    z-index: 1;
+    padding: 2rem;
+  }
+  
+  .hero {
+    text-align: center;
+    margin: 2rem 0;
+  }
+  
+  .about, .projects {
+    margin: 2rem 0;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  h1, h2 {
+    color: #444;
+  }
+  
