@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .column {
+    background-color: #f0f0f0;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 8px;
+    width: 300px;
+  }
+  
+  .task-list {
+    background-color: white;
+    padding: 1rem;
+    border-radius: 8px;
+    min-height: 100px;
+  }
+  
+  .task {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 8px;
+    margin-bottom: 8px;
+    cursor: grab;
+  }
+  
